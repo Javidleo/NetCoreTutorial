@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Projects\\Self\\NETCoreTutorial\\src\\Feature\\DepdendencyInjection\\DepdendencyInjection.csproj": {}
+    "C:\\Users\\Javid\\Desktop\\RezaTestingProject\\NetCoreTutorial\\src\\Feature\\DepdendencyInjection\\DepdendencyInjection.csproj": {}
   },
   "projects": {
-    "D:\\Projects\\Self\\NETCoreTutorial\\src\\Feature\\DepdendencyInjection\\DepdendencyInjection.csproj": {
+    "C:\\Users\\Javid\\Desktop\\RezaTestingProject\\NetCoreTutorial\\src\\Feature\\DepdendencyInjection\\DepdendencyInjection.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Projects\\Self\\NETCoreTutorial\\src\\Feature\\DepdendencyInjection\\DepdendencyInjection.csproj",
+        "projectUniqueName": "C:\\Users\\Javid\\Desktop\\RezaTestingProject\\NetCoreTutorial\\src\\Feature\\DepdendencyInjection\\DepdendencyInjection.csproj",
         "projectName": "DepdendencyInjection",
-        "projectPath": "D:\\Projects\\Self\\NETCoreTutorial\\src\\Feature\\DepdendencyInjection\\DepdendencyInjection.csproj",
+        "projectPath": "C:\\Users\\Javid\\Desktop\\RezaTestingProject\\NetCoreTutorial\\src\\Feature\\DepdendencyInjection\\DepdendencyInjection.csproj",
         "packagesPath": "C:\\Users\\Javid\\.nuget\\packages\\",
-        "outputPath": "D:\\Projects\\Self\\NETCoreTutorial\\src\\Feature\\DepdendencyInjection\\obj\\",
+        "outputPath": "C:\\Users\\Javid\\Desktop\\RezaTestingProject\\NetCoreTutorial\\src\\Feature\\DepdendencyInjection\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Javid\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -34,20 +34,11 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "default"
         }
       },
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
-          "dependencies": {
-            "Swashbuckle.AspNetCore": {
-              "target": "Package",
-              "version": "[6.4.0, )"
-            }
-          },
           "imports": [
             "net461",
             "net462",
@@ -59,15 +50,7 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "frameworkReferences": {
-            "Microsoft.AspNetCore.App": {
-              "privateAssets": "none"
-            },
-            "Microsoft.NETCore.App": {
-              "privateAssets": "all"
-            }
-          },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
         }
       }
     }

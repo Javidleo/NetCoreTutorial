@@ -1,8 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "KpRylfzpOLayIdAQ4VehDbqA2qVcIl5psMo9p0p498uc1VpXG6MKL5tOVV+Mag4Pc+b6viD6FubwV580qwmOag==",
+  "dgSpecHash": "L2SYtGpDEpttdM2bpAgakKOGVMxLMkAuv2i2XlZ4UNVlg7MwWx0KnQXouYuB+nTjzC3euNdW36mqWpRBlrj4pA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Javid\\Desktop\\RezaTestingProject\\NetCoreTutorial\\src\\Feature\\DepdendencyInjection\\DepdendencyInjection.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "D:\\ProgramLearning\\ConfigutrationTest\\NetCoreTutorial\\src\\Feature\\DepdendencyInjection\\DepdendencyInjection.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\EhsaN\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\EhsaN\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\EhsaN\\.nuget\\packages\\swashbuckle.aspnetcore\\6.4.0\\swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
+    "C:\\Users\\EhsaN\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.4.0\\swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
+    "C:\\Users\\EhsaN\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.4.0\\swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
+    "C:\\Users\\EhsaN\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.4.0\\swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512"
+  ],
   "logs": []
 }

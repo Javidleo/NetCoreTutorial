@@ -7,7 +7,9 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{472BCC5C-5ED
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Feature", "Feature", "{58D21F21-A63C-4631-895B-F2BF73153342}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DepdendencyInjection", "src\Feature\DepdendencyInjection\DepdendencyInjection.csproj", "{1521F7D2-9FCA-4CFD-A7A5-392B6CDB57D7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DepdendencyInjection", "src\Feature\DepdendencyInjection\DepdendencyInjection.csproj", "{1521F7D2-9FCA-4CFD-A7A5-392B6CDB57D7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConfigurationTest", "ConfigurationTest\ConfigurationTest.csproj", "{F37624FE-B137-4BED-9419-15CD425AE37E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -19,6 +21,10 @@ Global
 		{1521F7D2-9FCA-4CFD-A7A5-392B6CDB57D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1521F7D2-9FCA-4CFD-A7A5-392B6CDB57D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1521F7D2-9FCA-4CFD-A7A5-392B6CDB57D7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F37624FE-B137-4BED-9419-15CD425AE37E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F37624FE-B137-4BED-9419-15CD425AE37E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F37624FE-B137-4BED-9419-15CD425AE37E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F37624FE-B137-4BED-9419-15CD425AE37E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -26,6 +32,7 @@ Global
 	GlobalSection(NestedProjects) = preSolution
 		{58D21F21-A63C-4631-895B-F2BF73153342} = {472BCC5C-5ED7-44D5-9631-4055A9D82754}
 		{1521F7D2-9FCA-4CFD-A7A5-392B6CDB57D7} = {58D21F21-A63C-4631-895B-F2BF73153342}
+		{F37624FE-B137-4BED-9419-15CD425AE37E} = {58D21F21-A63C-4631-895B-F2BF73153342}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {BCA1A0DF-EA8C-4436-B301-65515FCAFA02}

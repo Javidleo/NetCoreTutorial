@@ -2,7 +2,7 @@
 {
     public interface IShowFamilyName
     {
-        string Id(string Fname);
+        string Id(string Fnam);
     }
     public class ShowFamilyName : IShowFamilyName
     {

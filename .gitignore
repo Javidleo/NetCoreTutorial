@@ -15,5 +15,4 @@
 *.CopyComplete
 *.txt
 *.editorconfig
-*.json
 *.props

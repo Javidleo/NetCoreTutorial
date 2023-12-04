@@ -16,3 +16,7 @@
 *.txt
 *.editorconfig
 *.props
+ConfigurationTest/obj/Debug/net8.0/ConfigurationTest.AssemblyInfo.cs
+src/Feature/DepdendencyInjection/obj/Debug/net8.0/DepdendencyInjection.AssemblyInfo.cs
+src/Feature/DepdendencyInjection/obj/Debug/net8.0/DepdendencyInjection.sourcelink.json
+ConfigurationTest/obj/Debug/net8.0/ConfigurationTest.sourcelink.json

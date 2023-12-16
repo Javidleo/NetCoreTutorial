@@ -1,4 +1,5 @@
-﻿using Newtonsoft.Json;
+﻿using Microsoft.AspNetCore.Diagnostics;
+using Newtonsoft.Json;
 
 namespace Middlewares.Common;
 
@@ -11,6 +12,8 @@ public static class RequestExtension
 
         await httpContext.Response.WriteAsync(JsonConvert.SerializeObject(error));
     }
+
+
     public static bool DoesHaveRezaHeader(this IHeaderDictionary header)
     {
         var value = header.FirstOrDefault(i => i.Key == "is_reza");
@@ -22,4 +25,5 @@ public static class RequestExtension
 
         return true;
     }
+
 }

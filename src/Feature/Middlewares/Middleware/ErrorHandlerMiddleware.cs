@@ -22,6 +22,6 @@ public class ErrorHandlerMiddleware
             await httpContext.WriteError(ex.Message, 500);
             return;
         }
-
+        
     }
 }

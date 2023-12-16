@@ -1,4 +1,5 @@
-﻿using Middlewares.Controllers;
+﻿using Middlewares.Common;
+using Middlewares.Controllers;
 
 namespace Middlewares.Middleware;
 public class HeaderCheckMiddleware
@@ -12,7 +13,7 @@ public class HeaderCheckMiddleware
 
     public async Task Invoke(HttpContext httpContext)
     {
-        if (httpContext.Request.Headers.DoesHaveRezaHeader() is false)
+        if (httpContext.Request.Headers.DoesHaveRezaHeader() is false)  
         {
             await httpContext.WriteError("this request does not have reza header", 401);
             return;

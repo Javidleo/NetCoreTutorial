@@ -8,4 +8,5 @@ public class Person
     public int Age { get; set; }
     public string PhoneNumber { get; set; }
 
+    public ICollection<PersonCourse> PersonCourses { get; set; }
 }

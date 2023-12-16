@@ -1,3 +1,5 @@
+using FullLearn.MiddleWare;
+using FullLearn.Option;
 using FullLearn.Prestence;
 using Microsoft.EntityFrameworkCore;
 
@@ -9,7 +11,7 @@ builder.Services.AddControllers();
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
-
+builder.Services.Configure<Config>(builder.Configuration.GetSection(nameof(Config)));
 builder.Services.AddDbContext<Context>(option => option.UseSqlServer(builder.Configuration.GetConnectionString("Local")));
 
 var app = builder.Build();
@@ -20,6 +22,7 @@ if (app.Environment.IsDevelopment())
     app.UseSwagger();
     app.UseSwaggerUI();
 }
+app.UseMiddleware<ErrorHandlerMiddleWare>();
 
 app.UseHttpsRedirection();
 

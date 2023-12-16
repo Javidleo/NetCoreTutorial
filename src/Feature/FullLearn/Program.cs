@@ -1,3 +1,4 @@
+using FullLearn.MiddleWare;
 using FullLearn.Option;
 using FullLearn.Prestence;
 using Microsoft.EntityFrameworkCore;
@@ -21,6 +22,7 @@ if (app.Environment.IsDevelopment())
     app.UseSwagger();
     app.UseSwaggerUI();
 }
+app.UseMiddleware<ErrorHandlerMiddleWare>();
 
 app.UseHttpsRedirection();
 

@@ -14,7 +14,15 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FullLearn")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
+<<<<<<< HEAD
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+=======
+<<<<<<<< HEAD:FullLearn/obj/Debug/net8.0/FullLearn.AssemblyInfo.cs
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+========
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e7f6368a104ce757c598daa725d3e5170e733867")]
+>>>>>>>> a4cbbe4829cdc58ae0cee4e83415d9cc1c0d1678:src/Feature/FullLearn/obj/Debug/net8.0/FullLearn.AssemblyInfo.cs
+>>>>>>> a4cbbe4829cdc58ae0cee4e83415d9cc1c0d1678
 [assembly: System.Reflection.AssemblyProductAttribute("FullLearn")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FullLearn")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

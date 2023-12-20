@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Projects\\Self\\NETCoreTutorial\\src\\Feature\\DepdendencyInjection\\DepdendencyInjection.csproj": {}
+    "D:\\Projects\\Self\\NETCoreTutorial\\TestAggreagetName\\TestAggreagetName\\TestAggreagetName.csproj": {}
   },
   "projects": {
-    "D:\\Projects\\Self\\NETCoreTutorial\\src\\Feature\\DepdendencyInjection\\DepdendencyInjection.csproj": {
+    "D:\\Projects\\Self\\NETCoreTutorial\\TestAggreagetName\\TestAggreagetName\\TestAggreagetName.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Projects\\Self\\NETCoreTutorial\\src\\Feature\\DepdendencyInjection\\DepdendencyInjection.csproj",
-        "projectName": "DepdendencyInjection",
-        "projectPath": "D:\\Projects\\Self\\NETCoreTutorial\\src\\Feature\\DepdendencyInjection\\DepdendencyInjection.csproj",
+        "projectUniqueName": "D:\\Projects\\Self\\NETCoreTutorial\\TestAggreagetName\\TestAggreagetName\\TestAggreagetName.csproj",
+        "projectName": "TestAggreagetName",
+        "projectPath": "D:\\Projects\\Self\\NETCoreTutorial\\TestAggreagetName\\TestAggreagetName\\TestAggreagetName.csproj",
         "packagesPath": "C:\\Users\\Javid\\.nuget\\packages\\",
-        "outputPath": "D:\\Projects\\Self\\NETCoreTutorial\\src\\Feature\\DepdendencyInjection\\obj\\",
+        "outputPath": "D:\\Projects\\Self\\NETCoreTutorial\\TestAggreagetName\\TestAggreagetName\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Javid\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -39,16 +39,6 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
-          "dependencies": {
-            "Microsoft.OpenApi": {
-              "target": "Package",
-              "version": "[1.6.11, )"
-            },
-            "Swashbuckle.AspNetCore": {
-              "target": "Package",
-              "version": "[6.4.0, )"
-            }
-          },
           "imports": [
             "net461",
             "net462",
@@ -61,9 +51,6 @@
           "assetTargetFallback": true,
           "warn": true,
           "frameworkReferences": {
-            "Microsoft.AspNetCore.App": {
-              "privateAssets": "none"
-            },
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }

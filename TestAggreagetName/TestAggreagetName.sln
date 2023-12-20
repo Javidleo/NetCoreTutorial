@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34322.80
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestAggreagetName", "TestAggreagetName\TestAggreagetName.csproj", "{56DA2567-0D24-4B53-9FBF-E144E86ADB05}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{56DA2567-0D24-4B53-9FBF-E144E86ADB05}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56DA2567-0D24-4B53-9FBF-E144E86ADB05}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56DA2567-0D24-4B53-9FBF-E144E86ADB05}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56DA2567-0D24-4B53-9FBF-E144E86ADB05}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {27274439-5DEF-42B0-B5A5-56681C918642}
+	EndGlobalSection
+EndGlobal

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Projects\\Self\\NETCoreTutorial\\src\\Feature\\DepdendencyInjection\\DepdendencyInjection.csproj": {}
+    "D:\\Projects\\Self\\NETCoreTutorial\\src\\Feature\\HttpClient\\Server\\Server.csproj": {}
   },
   "projects": {
-    "D:\\Projects\\Self\\NETCoreTutorial\\src\\Feature\\DepdendencyInjection\\DepdendencyInjection.csproj": {
+    "D:\\Projects\\Self\\NETCoreTutorial\\src\\Feature\\HttpClient\\Server\\Server.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Projects\\Self\\NETCoreTutorial\\src\\Feature\\DepdendencyInjection\\DepdendencyInjection.csproj",
-        "projectName": "DepdendencyInjection",
-        "projectPath": "D:\\Projects\\Self\\NETCoreTutorial\\src\\Feature\\DepdendencyInjection\\DepdendencyInjection.csproj",
+        "projectUniqueName": "D:\\Projects\\Self\\NETCoreTutorial\\src\\Feature\\HttpClient\\Server\\Server.csproj",
+        "projectName": "Server",
+        "projectPath": "D:\\Projects\\Self\\NETCoreTutorial\\src\\Feature\\HttpClient\\Server\\Server.csproj",
         "packagesPath": "C:\\Users\\Javid\\.nuget\\packages\\",
-        "outputPath": "D:\\Projects\\Self\\NETCoreTutorial\\src\\Feature\\DepdendencyInjection\\obj\\",
+        "outputPath": "D:\\Projects\\Self\\NETCoreTutorial\\src\\Feature\\HttpClient\\Server\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Javid\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -40,10 +40,6 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
-            "Microsoft.OpenApi": {
-              "target": "Package",
-              "version": "[1.6.11, )"
-            },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[6.4.0, )"

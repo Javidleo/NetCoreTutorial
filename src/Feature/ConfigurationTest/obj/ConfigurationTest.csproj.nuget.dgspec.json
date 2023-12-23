@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Projects\\Self\\NETCoreTutorial\\ConfigurationTest\\ConfigurationTest.csproj": {}
+    "D:\\Projects\\Self\\NETCoreTutorial\\src\\Feature\\ConfigurationTest\\ConfigurationTest.csproj": {}
   },
   "projects": {
-    "D:\\Projects\\Self\\NETCoreTutorial\\ConfigurationTest\\ConfigurationTest.csproj": {
+    "D:\\Projects\\Self\\NETCoreTutorial\\src\\Feature\\ConfigurationTest\\ConfigurationTest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Projects\\Self\\NETCoreTutorial\\ConfigurationTest\\ConfigurationTest.csproj",
+        "projectUniqueName": "D:\\Projects\\Self\\NETCoreTutorial\\src\\Feature\\ConfigurationTest\\ConfigurationTest.csproj",
         "projectName": "ConfigurationTest",
-        "projectPath": "D:\\Projects\\Self\\NETCoreTutorial\\ConfigurationTest\\ConfigurationTest.csproj",
+        "projectPath": "D:\\Projects\\Self\\NETCoreTutorial\\src\\Feature\\ConfigurationTest\\ConfigurationTest.csproj",
         "packagesPath": "C:\\Users\\Javid\\.nuget\\packages\\",
-        "outputPath": "D:\\Projects\\Self\\NETCoreTutorial\\ConfigurationTest\\obj\\",
+        "outputPath": "D:\\Projects\\Self\\NETCoreTutorial\\src\\Feature\\ConfigurationTest\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Javid\\AppData\\Roaming\\NuGet\\NuGet.Config",

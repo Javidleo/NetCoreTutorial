@@ -25,7 +25,8 @@ public class UserController : ControllerBase
     [HttpGet("{id}")]
     public IActionResult GetById(int id)
     {
-        var user = _users.Where(i => i.Id == id).FirstOrDefault();
+        var user = _users.Where(i => i.Id == id)
+            .ToList();
         if (user is null)
             return NotFound();
 

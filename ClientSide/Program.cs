@@ -13,7 +13,7 @@ Console.ReadKey();
 if (response.IsSuccessStatusCode)
 {
     var content = await response.Content.ReadAsStringAsync();
-    Console.Write(content);
+    Console.WriteLine(content);
 }
 else
     Console.WriteLine($"Error: {response.StatusCode} - {response.ReasonPhrase}");

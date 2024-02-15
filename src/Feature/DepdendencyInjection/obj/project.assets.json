@@ -432,11 +432,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Projects\\Self\\NETCoreTutorial\\src\\Feature\\DepdendencyInjection\\DepdendencyInjection.csproj",
+      "projectUniqueName": "C:\\Users\\Javid\\Desktop\\New folder (2)\\NetCoreTutorial\\src\\Feature\\DepdendencyInjection\\DepdendencyInjection.csproj",
       "projectName": "DepdendencyInjection",
-      "projectPath": "D:\\Projects\\Self\\NETCoreTutorial\\src\\Feature\\DepdendencyInjection\\DepdendencyInjection.csproj",
+      "projectPath": "C:\\Users\\Javid\\Desktop\\New folder (2)\\NetCoreTutorial\\src\\Feature\\DepdendencyInjection\\DepdendencyInjection.csproj",
       "packagesPath": "C:\\Users\\Javid\\.nuget\\packages\\",
-      "outputPath": "D:\\Projects\\Self\\NETCoreTutorial\\src\\Feature\\DepdendencyInjection\\obj\\",
+      "outputPath": "C:\\Users\\Javid\\Desktop\\New folder (2)\\NetCoreTutorial\\src\\Feature\\DepdendencyInjection\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Javid\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -447,6 +447,7 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {

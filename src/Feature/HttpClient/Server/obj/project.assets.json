@@ -433,11 +433,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Projects\\Self\\NETCoreTutorial\\src\\Feature\\HttpClient\\Server\\Server.csproj",
+      "projectUniqueName": "C:\\Users\\Javid\\Desktop\\New folder (2)\\NetCoreTutorial\\src\\Feature\\HttpClient\\Server\\Server.csproj",
       "projectName": "Server",
-      "projectPath": "D:\\Projects\\Self\\NETCoreTutorial\\src\\Feature\\HttpClient\\Server\\Server.csproj",
+      "projectPath": "C:\\Users\\Javid\\Desktop\\New folder (2)\\NetCoreTutorial\\src\\Feature\\HttpClient\\Server\\Server.csproj",
       "packagesPath": "C:\\Users\\Javid\\.nuget\\packages\\",
-      "outputPath": "D:\\Projects\\Self\\NETCoreTutorial\\src\\Feature\\HttpClient\\Server\\obj\\",
+      "outputPath": "C:\\Users\\Javid\\Desktop\\New folder (2)\\NetCoreTutorial\\src\\Feature\\HttpClient\\Server\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Javid\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -448,6 +448,7 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {

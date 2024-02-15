@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Projects\\Self\\NETCoreTutorial\\src\\Feature\\ConfigurationTest\\ConfigurationTest.csproj": {}
+    "C:\\Users\\Javid\\Desktop\\New folder (2)\\NetCoreTutorial\\src\\Feature\\ConfigurationTest\\ConfigurationTest.csproj": {}
   },
   "projects": {
-    "D:\\Projects\\Self\\NETCoreTutorial\\src\\Feature\\ConfigurationTest\\ConfigurationTest.csproj": {
+    "C:\\Users\\Javid\\Desktop\\New folder (2)\\NetCoreTutorial\\src\\Feature\\ConfigurationTest\\ConfigurationTest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Projects\\Self\\NETCoreTutorial\\src\\Feature\\ConfigurationTest\\ConfigurationTest.csproj",
+        "projectUniqueName": "C:\\Users\\Javid\\Desktop\\New folder (2)\\NetCoreTutorial\\src\\Feature\\ConfigurationTest\\ConfigurationTest.csproj",
         "projectName": "ConfigurationTest",
-        "projectPath": "D:\\Projects\\Self\\NETCoreTutorial\\src\\Feature\\ConfigurationTest\\ConfigurationTest.csproj",
+        "projectPath": "C:\\Users\\Javid\\Desktop\\New folder (2)\\NetCoreTutorial\\src\\Feature\\ConfigurationTest\\ConfigurationTest.csproj",
         "packagesPath": "C:\\Users\\Javid\\.nuget\\packages\\",
-        "outputPath": "D:\\Projects\\Self\\NETCoreTutorial\\src\\Feature\\ConfigurationTest\\obj\\",
+        "outputPath": "C:\\Users\\Javid\\Desktop\\New folder (2)\\NetCoreTutorial\\src\\Feature\\ConfigurationTest\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Javid\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -22,6 +22,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
